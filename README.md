@@ -1,6 +1,6 @@
 # Tugas 1 - Praktikum Mobile
 
-# Perintah Tugas
+### Perintah Tugas
 
 Buatlah sebuah aplikasi sederhana dan sekreatif mungkin menggunakan Flutter dengan ketentuan sebagai berikut:
 
@@ -9,11 +9,19 @@ Buatlah sebuah aplikasi sederhana dan sekreatif mungkin menggunakan Flutter deng
 3. Terdapat Form input.
 4. Terdapat Button.
 
-# Setup Flutter
+### Setup Flutter
 
-Untuk melakukan set up flutter
+Untuk melakukan set up flutter : 
 
 1. Silahkan clone repo ini
 2. Lalu buka terminal dan ketik `flutter pub get` untuk menginstall package
 3. Lalu ketik `flutter run` untuk menjalankan aplikasi
 4. Aplikasi berhasil di jalankan
+
+### Program Yang Dibuat
+
+Aplikasi yang saya buat sangat sederhana, yaitu masukan angka lalu akan melakukan perulangan sebanyak angka yang dimasukan, perulangan disini adalah looping gambar.
+
+### Screenshoot Aplikasi Yang Dibuat
+
+![Screenshot](assets\ss_program.png)
