@@ -24,4 +24,4 @@ Aplikasi yang saya buat sangat sederhana, yaitu masukan angka lalu akan melakuka
 
 ### Screenshoot Aplikasi Yang Dibuat
 
-![Screenshot](assets\ss_program.png)
+![Screenshot](./assets/ss_program.png)
